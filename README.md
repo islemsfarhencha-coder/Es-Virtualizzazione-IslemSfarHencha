@@ -10,4 +10,4 @@ La presentazione analizza due aree fondamentali:
 2. **Workflow di Sviluppo:** L'importanza di GitHub per il backup in cloud, il versionamento del codice tramite commit e la costruzione di un portfolio digitale professionale.
 
 ## Link alla Presentazione
-[Clicca qui per visualizzare la mia presentazione dinamica su Prezi]([https://prezi.com/view/DAyWc1abf0rgomMsIYie/?referral_token=KqrwLulnB3FN])
+[Clicca qui per visualizzare la mia presentazione dinamica su Prezi](https://prezi.com/view/DAyWc1abf0rgomMsIYie/?referral_token=KqrwLulnB3FN)
